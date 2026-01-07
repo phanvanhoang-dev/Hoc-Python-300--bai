@@ -3,3 +3,5 @@
 - 002 - Kiểm tra số chẵn hay lẻ
 - 003 - Tìm số lớn nhất trong ba số
 - 004 - Tính tiền taxi
+- 005 - Tính điểm trung bình và xếp loại học sinh
+- 
