@@ -4,4 +4,6 @@
 - 003 - Tìm số lớn nhất trong ba số
 - 004 - Tính tiền taxi
 - 005 - Tính điểm trung bình và xếp loại học sinh
-- 
+- 006 - In bảng cửu chương bằng vòng for lồng nhau
+- 007 - Kiểm tra năm nhuận hay không
+-  
