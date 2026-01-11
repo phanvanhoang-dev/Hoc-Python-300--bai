@@ -7,4 +7,6 @@ try:
   year = int(input("Nhập năm:"))
   if year <0:
     print("Vui lòng nhập năm sau công nguyên")
-    
+  Kiem_tra_nam(year)
+except ValueError:
+  print("Vui lòng nhập đúng giá trị cần kiểm tra")
