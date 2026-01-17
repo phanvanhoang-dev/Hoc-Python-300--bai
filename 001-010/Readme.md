@@ -9,4 +9,6 @@
 - 008 - Đếm số lượng số chẵn lẻ trong một danh sách
 - 009 - In ra số nguyên tố từ 1-100
 - 010 - Tìm ước chung lớn nhất
+ 
+10 bài cơ bản làm quen với python
     
